@@ -1,5 +1,5 @@
 ---
-title: 첫 번째 글
+title: 졸업 프로젝트
 date: 2026-09-01 14:00:00 +0900
 categories: [Blog]
 tags: [github-pages, jekyll, chirpy]
