@@ -1,7 +1,8 @@
 ---
 title: 졸업 프로젝트
 date: 2026-09-01 14:00:00 +0900
-categories: [Blog]
+by: 이강혁
+categories: [대학]
 tags: [github-pages, jekyll, chirpy]
 ---
 
