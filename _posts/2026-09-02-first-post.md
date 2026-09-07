@@ -1,9 +1,11 @@
 ---
 title: 졸업 프로젝트
+description: SNN을 활용한 고효율 추천 시스템 개발 및 최적화 연구
 date: 2026-09-01 14:00:00 +0900
 by: 이강혁
-categories: [대학]
-tags: [github-pages, jekyll, chirpy]
+categories: [대학, AI]
+tags: [추천시스템, NCF, SNN]
+pin: true
 ---
 
 # SNN을 활용한 고효율 추천 시스템 개발 및 최적화 연구
